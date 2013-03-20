@@ -3,3 +3,4 @@
 /rtthread.bin
 /rtthread-stm32.axf
 /rtthread-stm32.map
+/.sconsign.dblite
