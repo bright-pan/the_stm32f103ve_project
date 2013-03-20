@@ -1,0 +1,5 @@
+/build
+/rtconfig.pyc
+/rtthread.bin
+/rtthread-stm32.axf
+/rtthread-stm32.map
