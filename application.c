@@ -46,7 +46,7 @@
 #include "led.h"
 
 ALIGN(RT_ALIGN_SIZE)
-static rt_uint8_t led_stack[ 512 ];
+static rt_uint8_t led_stack[512];
 static struct rt_thread led_thread;
 static void led_thread_entry(void* parameter)
 {
