@@ -19,18 +19,18 @@
 /* board configuration */
 // <o> SDCard Driver <1=>SDIO sdcard <0=>SPI MMC card
 // 	<i>Default: 1
-#define STM32_USE_SDIO			1
+//#define STM32_USE_SDIO			1
 
 /* whether use board external SRAM memory */
 // <e>Use external SRAM memory on the board
 // 	<i>Enable External SRAM memory
-#define STM32_EXT_SRAM          0
+//#define STM32_EXT_SRAM          0
 //	<o>Begin Address of External SRAM
 //		<i>Default: 0x68000000
-#define STM32_EXT_SRAM_BEGIN    0x68000000 /* the begining address of external SRAM */
+//#define STM32_EXT_SRAM_BEGIN    0x68000000 /* the begining address of external SRAM */
 //	<o>End Address of External SRAM
 //		<i>Default: 0x68080000
-#define STM32_EXT_SRAM_END      0x68080000 /* the end address of external SRAM */
+//#define STM32_EXT_SRAM_END      0x68080000 /* the end address of external SRAM */
 // </e>
 
 // <o> Internal SRAM memory size[Kbytes] <8-64>
@@ -44,7 +44,7 @@
 
 // <o> Ethernet Interface: <0=> Microchip ENC28J60 <1=> Davicom DM9000A
 // 	<i>Default: 0
-#define STM32_ETH_IF			1
+//#define STM32_ETH_IF			1
 
 void rt_hw_board_led_on(int n);
 void rt_hw_board_led_off(int n);
