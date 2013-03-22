@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<emIDE_layout_file>
+	<ActiveTarget name="Release" />
+	<File name="led.c" open="1" top="0" tabpos="13" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="473" topLine="8" />
+		</Cursor>
+	</File>
+	<File name="led.h" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="459" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="stm32f10x_conf.h" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3060" topLine="53" />
+		</Cursor>
+	</File>
+	<File name="Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_gpio.c" open="1" top="0" tabpos="15" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1117" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h" open="1" top="0" tabpos="14" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1338" topLine="24" />
+		</Cursor>
+	</File>
+	<File name="Libraries\CMSIS\CM3\CoreSupport\core_cm3.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1001" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Libraries\CMSIS\CM3\CoreSupport\core_cm3.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="53646" topLine="744" />
+		</Cursor>
+	</File>
+	<File name="Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\startup\gcc_ride7\startup_stm32f10x_hd.s" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4643" topLine="115" />
+		</Cursor>
+	</File>
+	<File name="Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_wwdg.c" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="3245" topLine="109" />
+		</Cursor>
+	</File>
+	<File name="Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="632864" topLine="8284" />
+		</Cursor>
+	</File>
+	<File name="application.c" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="481" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Libraries\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="74" />
+		</Cursor>
+	</File>
+	<File name="Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1351" topLine="12" />
+		</Cursor>
+	</File>
+	<File name="Libraries\STM32F10x_StdPeriph_Driver\src\misc.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2759" topLine="15" />
+		</Cursor>
+	</File>
+	<File name="Libraries\STM32F10x_StdPeriph_Driver\src\stm32f10x_adc.c" open="1" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5227" topLine="169" />
+		</Cursor>
+	</File>
+</emIDE_layout_file>
